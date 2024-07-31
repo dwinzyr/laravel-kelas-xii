@@ -13,7 +13,7 @@ class KritikController extends Controller
      */
     public function index()
     {
-        //
+        
     }
 
     /**
@@ -21,7 +21,7 @@ class KritikController extends Controller
      */
     public function create()
     {
-        //
+        
     }
 
     /**
@@ -29,7 +29,7 @@ class KritikController extends Controller
      */
     public function store(StoreKritikRequest $request)
     {
-        //
+         
     }
 
     /**
@@ -37,7 +37,7 @@ class KritikController extends Controller
      */
     public function show(Kritik $kritik)
     {
-        //
+
     }
 
     /**

@@ -116,9 +116,9 @@
         <div class="clearfix"> </div>
         <div class="all-comments">
           <div class="all-comments-info">
-            <a href=""#>Comments</a>
+            <a href="#">Comments</a>
             <div class="agile-info-wthree-box">
-            <form action="{{ route('comment.store') }}" method="POST">
+            <form action="{{ route('coments.store') }}" method="POST">
     @csrf
 
     <div class="form-group">
